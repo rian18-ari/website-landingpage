@@ -1,0 +1,6 @@
+{
+  "name": "SMS",
+  "description": "Website resmi dan landing page SMS. Membangun Generasi Berilmu, Berakhlak, dan Berprestasi dengan kurikulum terpadu, fasilitas modern, dan pendaftaran PPDB online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
